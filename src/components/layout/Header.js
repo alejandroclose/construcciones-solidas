@@ -10,25 +10,19 @@ const Header = () => (
         <div className="w-12 mr-3">
           <LogoIcon />
         </div>
-        Lander
+        Construcciones Sólidas
       </div>
-      <div className="flex mt-4 sm:mt-0">
+      {/* <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-4" href="#features">
-          Features
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#services">
-          Services
-        </AnchorLink>
-        <AnchorLink className="px-4" href="#stats">
-          Stats
+          Servicios
         </AnchorLink>
         <AnchorLink className="px-4" href="#testimonials">
-          Testimonials
+          Contacto
         </AnchorLink>
       </div>
       <div className="hidden md:block">
         <Button className="text-sm">Start Free Trial</Button>
-      </div>
+      </div> */}
     </div>
   </header>
 );
