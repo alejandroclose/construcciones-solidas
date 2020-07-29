@@ -16,7 +16,7 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-          Process & Project Management
+          Process & Project Management para Construcción
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Gestionamos los procesos de sus proyectos para cumplir con los contratos y mejorar la rentabilidad.
@@ -131,6 +131,7 @@ export default () => (
     </section> */}
     <section className="container mx-auto my-16 py-16 bg-gray-200 rounded-lg text-center">
       <h3 className="text-4xl font-semibold">Contacto</h3>
+      <p className="text-3xl">Estamos encantados de atenderle:</p>
       <p className="mt-8 text-3xl font-light">
         <p>gestion@cas.com.gt</p>
         <p><a href="tel:+5025207-6591">+(502)5207-6591</a></p>
